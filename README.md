@@ -105,7 +105,7 @@ Here's a visual example of applying the thresholding filter to an image:
 
 Original Image | Thresholded Image (threshold = 100)
 :-------------------------:|:-------------------------:
-![Original Baboon](images/baboon.png) | ![Thresholded Baboon](images/baboon_editado.png)
+![Original Baboon](test_images/baboon.png) | ![Thresholded Baboon](output_images/baboon_editado.png)
 
 ## Future Improvements
 - Add batch processing capabilities
